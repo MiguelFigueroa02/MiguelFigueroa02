@@ -1,5 +1,5 @@
 <!-- Encabezado con nombre e íconos -->
-<h1 align="center">Hola 👋, soy Miguel Figueroa Aguilar</h1>
+<h1 align="center">Hola 👋, soy Miguel Figueroa</h1>
 <h3 align="center">⚗️ Químico | 💻 LIMS Configurator | 🌱 Programador en formación</h3>
 
 <p align="center">

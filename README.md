@@ -1,6 +1,6 @@
 <!-- Encabezado con nombre e íconos -->
 <h1 align="center">Hola 👋, soy Miguel Figueroa</h1>
-<h3 align="center">⚗️ Químico | 💻 LIMS Configurator | 🌱 Programador en formación</h3>
+<h3 align="center">⚗️ Químico |🌱 Programador en formación</h3>
 
 <p align="center">
   <a href="mailto:miguefigueroa02@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=flat&logo=gmail&logoColor=white" /></a>

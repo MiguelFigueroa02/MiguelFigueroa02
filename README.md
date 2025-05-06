@@ -58,7 +58,6 @@ Soy parte del programa ONE de Alura Latam, con un enfoque en **optimizar, digita
 
 ### 📫 ¿Colaboramos?
 
-¿Estás trabajando en digitalización de laboratorios, automatización de procesos, o proyectos LIMS?  
 **¡Estoy abierto a conectar y colaborar!**
 
 <a href="mailto:miguefigueroa02@gmail.com">📧 Envíame un correo</a> | <a href="www.linkedin.com/in/miguelims">🔗 Visita mi LinkedIn</a>

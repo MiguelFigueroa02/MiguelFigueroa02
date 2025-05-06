@@ -12,10 +12,7 @@
 
 ### 🧬 ¿Quién soy?
 
-Desde el laboratorio hasta el código, mi enfoque es claro: **optimizar, digitalizar y crecer**.
-
-🎯 Actualmente trabajo como **Configurador de sistemas LIMS (LabWare)** en la industria farmacéutica.  
-Mi background como químico de desarrollo analítico, inspector de calidad y especialista en QC me da una perspectiva única para diseñar soluciones informáticas alineadas con el flujo real de los laboratorios.
+Soy parte del programa ONE de Alura Latam, con un enfoque en **optimizar, digitalizar y crecer** con soluciones a través de código.
 
 ---
 

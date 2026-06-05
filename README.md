@@ -49,7 +49,6 @@ Soy parte del programa ONE de Alura Latam, con un enfoque en **optimizar, digita
 
 ### 🤓 Sobre mí
 
-- 🐕 Tengo 3 perritos (¡los gorditos!)
 - 📺 Fan de Los Simpsons
 - ⚽ Apasionado del fútbol
 - 🧁 Me relajo con buen postre y código limpio
